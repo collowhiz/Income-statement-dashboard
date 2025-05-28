@@ -9,7 +9,7 @@ A Power BI dashboard project designed to analyze revenue, COGS, and profit trend
 
 ## 📘 Extended Description
 
-This project focuses on using Power BI to visualize and analyze key financial metrics—**Revenue**, **Profit**, **Cost of Goods Sold (COGS)**, and **Discounts**—from an income statement covering multiple financial years and months. It targets the **Small Business** segment within a broader business ecosystem that includes Enterprise, Government, and Channel Partner verticals.
+This project focuses on using Power BI to visualize and analyze key financial metrics—**Revenue**, **Profit**, **Cost of Goods Sold (COGS)**, and **Discounts**—from financial data sourced from Power Bi covering multiple financial years and months. It targets the **Small Business** segment within a broader business ecosystem that includes Enterprise, Government, and Channel Partner verticals.
 
 The dashboard offers interactive filters for product, country, financial year, and month, making it easy to uncover both high-level trends and granular insights. The aim was to provide a decision-support tool for stakeholders to:
 
